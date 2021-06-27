@@ -45,22 +45,31 @@
 </p>
 
 ```
-Asena; Asena UserBot, WhatsAsena yazılımı temsil eden adlardır, yazının devamında birbiri yerine kullanılabilir.
+WhatsAsena - Asena Userbot विकास के लिए खुला खुला स्रोत सॉफ्टवेयर है।
 
-WhatsAsena - Asena Userbot Açık Kaynaklı geliştirmeye açık bir yazılımdır. 
-Yanlış ve amacı dışında kullanımdan doğabilecek tüm sonuçlardan kullanıcı sorumludur. 
-Açık kaynaklı bir proje olduğundan isteyen herkes yazılımı kopyalayıp eklemeler çıkarmalar yapabilir,
-kendi özelleştirdiği biçimde kullanabilir. Ayrıca eklenti (plugin) desteği, 
-orijinal yazılıma kullanıcıların kendi yazdıkları eklentileri yükleyerek istedikleri 
-biçimde kullanmaları özelliğini sağlar.
-Kullanımı tamamen kullanıcının sorumluluğundadır.
-Botu amacı dışında kullanmak, açık bir şekilde yasaklanmanıza sebeb olur.
-Asena Userbot yalnızca bir altyapıdır. Nasıl sonradan yüklenen programlarla 
-yapılan işlerden işletim sistemi sorumlu değilse, 
-WhatsAsena da kullanıcıların kullanım amacı ve yönteminden sorumlu değildir.
-WhatsAsena'yı para karşılığı pazarlamak, kullanıma sunmak yahut herhangi bir maddi değere sahip
-birşey ile satışa sunmak kesinlikle yasaktır. Doğabilecek tüm yasal soruşturmalardan
-kullanıcı sorumludur.
+उपयोगकर्ता उन सभी परिणामों के लिए ज़िम्मेदार है जो गलत या दुरुपयोग से उत्पन्न हो सकते हैं।
+
+चूंकि यह एक ओपन सोर्स प्रोजेक्ट है, कोई भी सॉफ्टवेयर को कॉपी कर सकता है, जोड़ और हटा सकता है,
+
+और इसे इस तरह से उपयोग करें कि वे अनुकूलित करें। इसके अलावा, प्लग-इन समर्थन उपयोगकर्ताओं को सक्षम बनाता है
+
+अपने स्वयं के प्लगइन्स को मूल सॉफ़्टवेयर में स्थापित करें और अपनी इच्छानुसार उनका उपयोग करें।
+
+उद्देश्य से बॉट का उपयोग करना स्पष्ट रूप से आपको प्रतिबंधित कर देगा।
+
+उपयोग पूरी तरह से उपयोगकर्ता की जिम्मेदारी है, Asena Userbot एक है
+
+केवल बुनियादी ढाँचा। जैसे ऑपरेटिंग सिस्टम जिम्मेदार नहीं है
+
+बाद में स्थापित प्रोग्रामों के साथ किए गए कार्य के लिए, WhatsAsena
+
+उपयोगकर्ताओं के उपयोग के उद्देश्य और विधि के लिए ज़िम्मेदार नहीं है।
+
+पैसे के लिए व्हाट्सएप की मार्केटिंग करना, उसे उपलब्ध कराना या कोई भौतिक मूल्य रखना
+
+इसे किसी भी चीज़ के साथ बिक्री के लिए पेश करना सख्त मना है। सभी कानूनी जांच जो उत्पन्न हो सकती हैं
+
+उपयोगकर्ता जिम्मेदार है।
 
 WhatsAsena - Asena Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
