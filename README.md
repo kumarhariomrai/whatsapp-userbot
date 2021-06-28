@@ -121,8 +121,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://https://github.com/kumarhariomrai/whatsapp-userbot)
-
+<p><a href="https://heroku.com/deploy?template=https://github.com/kumarhariomrai/whatsapp-userbot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
 
 
 ##
